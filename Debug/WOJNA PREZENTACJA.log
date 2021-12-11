@@ -1,0 +1,6 @@
+﻿  WOJNA PREZENTACJA.cpp
+C:\Users\lukin\OneDrive\Desktop\WOJNA PREZENTACJA\WOJNA PREZENTACJA.cpp(286,52): warning C4838: konwersja z „int” do „char” wymaga konwersji zawężającej
+C:\Users\lukin\OneDrive\Desktop\WOJNA PREZENTACJA\WOJNA PREZENTACJA.cpp(286,73): warning C4305: "inicjowanie": obcięcie z "int" do "char"
+C:\Users\lukin\OneDrive\Desktop\WOJNA PREZENTACJA\WOJNA PREZENTACJA.cpp(286,52): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\lukin\OneDrive\Desktop\WOJNA PREZENTACJA\WOJNA PREZENTACJA.cpp(328,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  WOJNA PREZENTACJA.vcxproj -> C:\Users\lukin\OneDrive\Desktop\WOJNA PREZENTACJA\Debug\WOJNA PREZENTACJA.exe
